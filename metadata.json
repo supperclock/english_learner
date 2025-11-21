@@ -1,0 +1,7 @@
+{
+  "name": "FluentFlow - AI English Tutor",
+  "description": "An intelligent English speaking practice application using Gemini Live API for real-time assessment and adaptive scenario training.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
